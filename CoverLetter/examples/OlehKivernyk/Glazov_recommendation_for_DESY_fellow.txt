@@ -1,0 +1,9 @@
+DESY fellowship in principle allows you to chose another experiment. You will have one month to go around and ask. I think it would be good if you have an indication in the letter that you have an open mind and would be ready to do other things if they are interesting.
+Other possibilities beyond ATLAS are CMS, accelerator development, BelleII, and small experiments such as ALPS.
+
+For ATLAS, yes, there is a big upgrade involvement (tracker for high luminosity LHC). There is a big top physics group doing both SM and a bit of BSM 
+(also ttbar H), Higgs to gamma gamma, we may get
+VBS group for SM, and we have exotic searchers. 
+As a fellow you can be in principle rather independent in
+your research. E.g. from the last round we got a fellow
+doing gamma-gamma-> ell ell, he is working in SM group, with rather little direct connections to other activities. A good proposal for relatively short time scale precision analysis is very welcome

@@ -1,0 +1,26 @@
+PRESENTATIONS,POSTERS, SCHOOLS AND CONFERENCES 
+    group separately oral presentations, poster, schools (I am not sure if it's better)
+
+"C/C++(ROOT )" --> "C/C++ (ROOT)"
+"Java Matlab" --> "Java, Matlab"
+
+"$J/\psi$, $J/\psi+\Upsilon$)" --> problem with my pdf-reader ???
+
+RESEARCH EXPERIENCE AND INTERESTS
+    [Double parton scattering:]
+        - rearrenge. Make it like a story! This is the most important part. You have to write it in the best possible way. Something like this (I just shuffled your sentences):
+            
+[Intro:]
+My main current topic of interest are multiple parton interactions in hadron-hadron collisions. 
+[What you was working on:]
+I was working on study of production of quarkonium pairs (e.g. double $J/\psi$, $J/\psi+\Upsilon$)[1,3] in double parton scattering at the Tevatron.
+[Why it is important:]
+This topic is very important cause it was not studied enough but it is significant background for many processes such as Higgs production or various new phenomena which has been often underestimated in the
+past.
+[Your future interest; connection to LHC]
+Next natural step in my studies would be to compare parameter characterized double parton
+interactions, effective cross section, determined in production of quarkonium pairs with
+measurements in proton-proton collisions at the LHC and I am looking for possibilities to be working on it.
+
+    [QCD:]
+    Just add one-two sentences. Why it is important to study it...

@@ -1,0 +1,17 @@
+
+
+I am a last year PhD student at Lund University in ATLAS group.
+My thesis will focus on beyond Standard Model physics searches with leptons.
+My first analysis was "Search for anomalous production of prompt same-sign lepton pairs with ATLAS".
+Fiducial cross-section limits were derived for contributions from new physics beyond the SM, which
+give rise to final states with two same-sign isolated leptons. Limits were also set for a model of doubly charged
+Higgs bosons. My responsobility was di-electron channel.
+
+
+In parallel I was working with Transition Radiation Tracker (TRT) group of the ATLAS, where 
+I made a first implementation of new Argon-based active gas mixture to the official TRT ATLAS simulation code.
+My curent analysis is search of heavy W' boson in lepton channel with 13 TeV data.
+Main activity is related with investigation of high momenta lepton selection criteria, isolation requirements and missing transverse energy.
+On the hardware side, I was involved on developing, installation and testing of the newly-built ATLAS luminosity detector LUCID for the Run-2. 
+I continue developing of calibration procedure for LUCID and I am taking part in ATLAS Forward Detector run coordination.
+

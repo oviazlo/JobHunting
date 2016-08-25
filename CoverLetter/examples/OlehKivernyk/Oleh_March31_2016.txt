@@ -1,0 +1,5 @@
+DESY is one of the biggest and well-known scientific centres. The fellowship programme perfectly fits with my experience, skills and career goals. I have found physics investigation in
+ATLAS very interesting and enthralling and I have realised once again the ATLAS experiment is the place where I can widen my skills and knowledge. The ATLAS group at DESY is large with variety of excellent 
+opportunities to enrich my existing knowledge and acquire new experiences. The amount of knowledge and skills I gained during the W boson mass precision analysis could be useful not only for 
+the W and Z physics analysis, used to constrain PDFs and improve the precision of the predictions of LHC data, but also for other topics.
+In particular, the techniques of multijet background estimation may be applicable in the diphoton analysis, where the uncertainty on the jet background subtraction is significant. Besides the physics analysis, I'm interested to work on design and simulation of the new tracker detector for the future high luminosity LHC as it is a challenge for precision measurements at higher energies.

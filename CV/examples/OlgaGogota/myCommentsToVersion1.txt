@@ -1,0 +1,28 @@
+General comments:
+- make CV compact - everything should be in one page! You can use second page only for list of your publications.
+- make bigger accent on your research interests. it's main thing what people expect from CV, imho.
+they first look are you interested in topics of conference and after are you good enough (background and experience).
+
+Education: 
+    make it shorter! most important part is your PhD studies, and less important - master and bachelor (and in text-wise it's exactly opposite right now).
+
+Experience:
+- "short time visits" - sounds not very good...
+- maybe it worth to make only two lines:
+    Fermilab - 2011-2015 (summing up to 2 years)
+    DESY - 2009-2011 (summing up to 1 year)
+ 
+PRESENTATIONS AND POSTERS
+ - it's OK, but make it shorter!!!
+ - merge it with SCHOOLS AND CONFERENCES
+
+TECHNICAL STRENGTHS
+operating system - remove; 
+programming languages and math. packages merge into 2 lines; change "middle" to "advanced"; "basic" to "experienced". Also state here your experience with MC generators.  I would include ROOT to C++ experience.
+Also typically it looks nice if you state for what purpose you have used packages like Geant4, MPI and so on... 
+
+RESEARCH EXPERIENCE AND INTERESTS
+ - make list of all your publication (where you made some contribution) in the end (it can be on the second page, if it will not fit). And in the text where you explain your research interest just use references (like [x]). Also this chapter is not only experience, but also interest - so add something new which can be interesting to investigate in future for you and which is not done yet. Personaly I think it's crucial to talk here about LHC. Say maybe you are interested on comparison results with Tevatron and LHC, or you want to study something similar but with LHC data... As I said before this part is very crucial, so spend most of you time thinking how and what to write here!
+
+awards:
+  have you got some grants/funding for other conferences/schools? if yes - write it and remove current point!

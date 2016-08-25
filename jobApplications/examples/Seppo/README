@@ -1,0 +1,5 @@
+# to encrypt file use:
+ccencrypt <fileName>
+
+# to decrypt use:
+ccdecrypt <fileName.cpt>
